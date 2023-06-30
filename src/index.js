@@ -1,5 +1,7 @@
 import React from 'react';
+import './Components/common.css'
 import ReactDOM from 'react-dom/client';
+import "bootstrap-icons/font/bootstrap-icons.css";
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
